@@ -1,0 +1,24 @@
+[Tue Sep 10 2024] [WARNING]: This is a sync warning
+[Tue Sep 10 2024] [ERROR]: This is a sync error
+[Tue Sep 10 2024] [INFO]: This is a sync info
+[Tue Sep 10 2024] [INFO]: This is an async info
+[Tue Sep 10 2024] [ERROR]: This is an async error
+[Tue Sep 10 2024] [WARNING]: This is an async warning
+[9/10/2024] [WARNING]: This is a sync warning
+[9/10/2024] [ERROR]: This is a sync error
+[9/10/2024] [INFO]: This is a sync info
+[9/10/2024] [WARNING]: This is an async warning
+[9/10/2024] [INFO]: This is an async info
+[9/10/2024] [ERROR]: This is an async error
+[9/10/202411:49:24 AM] [WARNING]: This is a sync warning
+[9/10/202411:49:24 AM] [ERROR]: This is a sync error
+[9/10/202411:49:24 AM] [INFO]: This is a sync info
+[9/10/202411:49:24 AM] [WARNING]: This is an async warning
+[9/10/202411:49:24 AM] [INFO]: This is an async info
+[9/10/202411:49:24 AM] [ERROR]: This is an async error
+[9/10/2024 11:49:46 AM] [WARNING]: This is a sync warning
+[9/10/2024 11:49:46 AM] [ERROR]: This is a sync error
+[9/10/2024 11:49:46 AM] [INFO]: This is a sync info
+[9/10/2024 11:49:46 AM] [WARNING]: This is an async warning
+[9/10/2024 11:49:46 AM] [ERROR]: This is an async error
+[9/10/2024 11:49:46 AM] [INFO]: This is an async info
